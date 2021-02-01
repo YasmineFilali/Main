@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Main</string>
+    <string name="mainbutton">Mon bouton</string>
+    <string name="button2">Bouton 2</string>
+    <string name="button3">Bouton 3</string>
+    <string name="button4">Bouton 4</string>
+
+</resources>
